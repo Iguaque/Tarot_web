@@ -106,7 +106,7 @@ TAROTIST_STYLES = {
 
 # Configuración de la API de DeepSeek
 DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions"
-DEEPSEEK_API_KEY = "sk-8d0a80bf50e84fdb8a861f5c525f22b4"  # Reemplaza con tu API key real
+DEEPSEEK_API_KEY = "8d0a80bf50e84fdb4668a81f5c525f22b4"  # Reemplaza con tu API key real
 
 @app.route('/')
 def index():
